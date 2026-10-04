@@ -1,0 +1,12 @@
+# Chaves privadas
+*.pem
+*.ppk
+*.key
+
+# Credenciais
+.env
+.env.*
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
